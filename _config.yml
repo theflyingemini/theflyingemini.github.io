@@ -1,10 +1,10 @@
 # Site settings
-title: RZ Blog
-SEOTitle: RZ Blog
+title: Ruozhi Playground
+SEOTitle: Ruozhi Playground
 header-img: img/post-bg-desk.jpg
 email: ruozhizhangstudy@gmail.com
 description: "Whatever you think you can do or believe you can do, begin it. Action has magic, grace and power in it."
-keyword: "RZ Blog"
+keyword: "Programming"
 url: "http://theflyingemini.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
