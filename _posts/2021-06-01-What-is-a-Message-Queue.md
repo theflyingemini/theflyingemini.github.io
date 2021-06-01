@@ -4,13 +4,11 @@ title:      What is a Message Queue    # 标题
 subtitle:                              # 副标题
 date:       2021-06-01 				         # 时间
 author:     Roger 						         # 作者
-header-img: img/post-bg-o.jpeg         # 这篇文章标题背景图片
+header-img: img/post-bg-debug.png         # 这篇文章标题背景图片
 catalog:    true 						           # 是否归档
 tags:								                   # 标签
     - Distributed System
 ---
-
-#
 
 [What is a Message Queue?](https://aws.amazon.com/message-queue/)
 
